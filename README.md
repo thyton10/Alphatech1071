@@ -1,4 +1,9 @@
-# Front-end Style Guide
+# proyecto final gilberto de leon
+![image](https://user-images.githubusercontent.com/94081221/141201705-ff044683-9bb8-42cb-bafa-c35e7fb85db5.png)
+![image](https://user-images.githubusercontent.com/94081221/141201820-7e7d6017-d515-49c9-9859-173473c57832.png)
+![image](https://user-images.githubusercontent.com/94081221/141201926-e57a152c-28b1-44a2-b58c-7f7bbaf9d6b3.png)
+![image](https://user-images.githubusercontent.com/94081221/141202011-61403708-f5bc-4fc6-a1ae-fdc04749bdc3.png)
+
 
 ## Layout
 
